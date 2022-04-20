@@ -4,7 +4,7 @@
 
 Use GIT as a recon tool. Find the target's GIT repositories, clone them, and then check the logs for information on the team not necessarily in the source code. Say the target is Reddit and I want to see which developers work on certain projects.
 
-[Link](https://gist.github.com/EdOverflow/a9aad69a690d97a8da20cd4194ca6596 )
+[Link](https://github.com/attaullahshafiq10/Bug-Bounty/blob/main/gitgrepper.sh )
 
 **Tip #2**
 
