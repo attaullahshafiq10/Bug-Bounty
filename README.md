@@ -22,7 +22,7 @@ We welcome contributions from the public.
 
 ### Using the issue tracker 💡
 
-The issue tracker is the preferred channel for bug reports and features requests. [![GitHub issues](https://img.shields.io/github/issues/EdOverflow/bugbounty-cheatsheet.svg?style=flat-square)](https://github.com/EdOverflow/bugbounty-cheatsheet/issues)
+The issue tracker is the preferred channel for bug reports and features requests. [![GitHub issues](https://img.shields.io/github/issues/EdOverflow/bugbounty-cheatsheet.svg?style=flat-square)](https://github.com/attaullahshafiq10/Bug-Bounty/issues)
 
 ### Issues and labels 🏷
 
@@ -42,13 +42,4 @@ We like to keep our Markdown files as uniform as possible. So if you submit a PR
 - Code blocks should use three backticks. (```)
 - Make sure to use syntax highlighting whenever possible.
 
-# Contributors
 
-- [EdOverflow](https://github.com/EdOverflow)
-- [GerbenJavado](https://github.com/GerbenJavado)
-- [jon_bottarini](https://github.com/BlueTower)
-- [sp1d3r](https://github.com/sp1d3r)
-- [yasinS](https://github.com/yasinS)
-- [neutrinoguy](https://github.com/neutrinoguy)
-- [kuromatae](https://github.com/kuromatae)
-- [And many more ...](https://github.com/EdOverflow/bugbounty-cheatsheet/graphs/contributors)
